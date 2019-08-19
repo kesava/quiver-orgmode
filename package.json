@@ -1,0 +1,20 @@
+{
+  "name": "quiver-orgmode",
+  "version": "1.0.0",
+  "description": "Parse thru Quiver's library and generate a list of TODO actions in Quiver's inbox.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quiver",
+    "orgmode",
+    "org-mode"
+  ],
+  "author": "Kesava Mallela",
+  "license": "MIT",
+  "dependencies": {
+    "lumo-cljs": "^1.10.1",
+    "openurl": "^1.1.1"
+  }
+}
